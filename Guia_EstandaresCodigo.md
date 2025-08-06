@@ -63,9 +63,8 @@ Utilizar comillas triples """ para docstrings.
 
  Ejemplo aceptado:
 
-python
-Copiar
-Editar
+
+
 def calculate_total(price, tax):
     """
     Calcula el total con impuestos.
@@ -73,9 +72,6 @@ def calculate_total(price, tax):
     return price + tax
  Ejemplo no aceptado:
 
-python
-Copiar
-Editar
 # Esta función hace un cálculo
 def calc(price, tax):
     return price + tax
