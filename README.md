@@ -1,4 +1,4 @@
-/wavesound-backend
+/wavesound
 │
 ├── app.py                  # Archivo principal Flask
 ├── requirements.txt        # Dependencias del proyecto
