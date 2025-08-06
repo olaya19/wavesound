@@ -1,0 +1,46 @@
+# Entorno virtual
+venv/
+env/
+ENV/
+.venv/
+.python-version
+
+# Archivos de configuración local
+.env
+.env.*
+
+# __pycache__ y archivos compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Archivos de bases de datos locales
+*.sqlite3
+*.db
+
+# Archivos de test cache
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Carpeta de dependencias
+*.egg-info/
+dist/
+build/
+
+# Archivos generados por editores
+.vscode/
+.idea/
+*.swp
+
+# Otros
+*.bak
+*.tmp
